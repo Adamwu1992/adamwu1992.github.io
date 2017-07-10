@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "有关JSON.stringify()的小知识"
 date:   2017-07-10 10:00:56 +0800
 categories: jekyll update

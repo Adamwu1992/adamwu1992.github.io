@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "我的第一个vue"
 date:   2017-07-10 10:00:56 +0800
 categories: jekyll update

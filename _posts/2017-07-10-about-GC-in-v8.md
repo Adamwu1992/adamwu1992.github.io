@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "理解V8内存处理"
 date:   2017-07-10 10:00:56 +0800
 categories: jekyll update
