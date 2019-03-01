@@ -1,6 +1,4 @@
-# 我的博客
-
-> 一点一滴，记录成长。
+- [文章列表](https://github.com/Adamwu1992/adamwu1992.github.io/issues)
 
 
-记录一些关于编程的想法和看法，[文章在这里](https://adamwu1992.github.io/)
+- [博客目录](https://adamwu1992.github.io/)
